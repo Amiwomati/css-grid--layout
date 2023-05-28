@@ -14,12 +14,14 @@ body {
 
 /*HEADER*/
 .title h1 {
+    background-color: white;
     padding: 20px 0;
     text-align: center;
     font-size: 2.9em;
     text-transform: uppercase;
 }
 .title h1 {
+    background-color: white;
     padding: 20px 0;
     text-align: center;
     font-size: 2.9em;
